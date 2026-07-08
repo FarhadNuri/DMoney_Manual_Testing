@@ -24,6 +24,8 @@ This repository presents a professional-grade manual testing project for the **D
 ## Screenshots
 ![Img 2](Images/Img2.png)
 ![Img 3](Images/Img3.png)
+![Img 1](Images/Img1.png)
+![Img 4](Images/Img4.png)
 
 ---
 ## Technologies & Tools Used
