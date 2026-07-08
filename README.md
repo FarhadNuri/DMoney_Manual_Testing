@@ -1,7 +1,10 @@
 # Dmoney Manual Testing
+
 ## Project Description
+
 This repository presents a professional-grade manual testing project for the **Dmoney REST API**, focusing on financial transaction operations like deposits, transfers, withdrawals, and balance inquiries. It includes a complete suite of manual test cases, detailed bug reports, completion reports, and documentation to demonstrate best practices in quality assurance.
----
+
+
 ## Manual Testing Documentation & Resources
 | Resources                     | Link                                              |
 | ---------------------------- | ------------------------------------------------- |
@@ -32,7 +35,10 @@ This repository presents a professional-grade manual testing project for the **D
 * Developed structured test cases with clear steps, expected results, and accurate requirement mappings
 ---
 ## Author
+
 **Farhad Nuri**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farhad-nuri-ba99a62a5/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:farhadnuri559@gmail.com)
+
 ---
