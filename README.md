@@ -20,6 +20,11 @@ This repository presents a professional-grade manual testing project for the **D
 * Validation of API responses, status codes, authentication, and business logic
 * Well-documented bug reports and improvement recommendations for better software quality
 * Structured traceability and systematic QA checklists
+
+## Screenshots
+![Img 2](Images/Img2.png)
+![Img 3](Images/Img3.png)
+
 ---
 ## Technologies & Tools Used
 | Tool                      | Purpose                                  |
